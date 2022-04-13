@@ -1,3 +1,12 @@
-body{
-    background-image: url("images/table.jpeg");
+#card > img {
+    height: 300px;
+    width: 220px;
+}
+
+ body{
+    background-image: url(images/table.jpeg);
+}
+
+p{
+    color: white;
 }
