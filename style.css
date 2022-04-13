@@ -8,5 +8,9 @@
 }
 
 p{
+    text-align: center;
+    height: 120px;
+    width: 180px;
+    background-color: green;
     color: white;
 }
