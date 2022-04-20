@@ -3,14 +3,39 @@
     width: 220px;
 }
 
+#card {
+    display: flex;
+    justify-content: center;
+}
+
  body{
     background-image: url(images/table.jpeg);
 }
 
 p{
     text-align: center;
-    height: 120px;
+    height: 60px;
     width: 180px;
+    padding-top: 20px;
     background-color: green;
-    color: white;
+    color: black;
+}
+
+#computer > img {
+    height: 300px;
+    width: 220px;
+    margin: 10px;
+}
+
+#computer {
+    display: flex;
+    justify-content: center;
+}
+
+.red-button{
+    background-color: red;
+}
+
+.reset-button{
+    background-color: yellow;
 }
