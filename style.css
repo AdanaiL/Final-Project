@@ -1,6 +1,7 @@
 #card > img {
     height: 300px;
     width: 220px;
+    margin: 10px;
 }
 
 #card {
@@ -19,6 +20,8 @@ p{
     padding-top: 20px;
     background-color: green;
     color: black;
+    margin-top: -18px;
+    margin-left: -10px;
 }
 
 #computer > img {

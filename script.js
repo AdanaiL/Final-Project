@@ -1,10 +1,9 @@
 function run() {
     getCard()
-    compareNum()
-    
 }
 function comp() {
     computer()
+    compareNum()
 }
 
 var usertotal = 0
